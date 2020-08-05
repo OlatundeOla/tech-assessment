@@ -1,0 +1,9 @@
+Network,Product,Month,count,sum
+Network 1,Loan Product 1,Mar-2016,1,1000.0
+Network 1,Loan Product 2,Apr-2016,1,1801.0
+Network 1,Loan Product 2,Mar-2016,1,3098.0
+Network 2,Loan Product 1,Apr-2016,1,5671.0
+Network 2,Loan Product 1,Mar-2016,1,1122.0
+Network 2,Loan Product 3,Apr-2016,1,1747.0
+Network 3,Loan Product 2,Mar-2016,1,2084.0
+Network 3,Loan Product 3,Apr-2016,1,1928.0
