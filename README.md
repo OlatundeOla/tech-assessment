@@ -22,6 +22,7 @@ Python jumo_test.py
 5.	Check the result in the output directory
 
 Constraints considerations
+
 •	The processing time is a function of the input file size and the environment on which the file is processed. If this is run locally then expect a bit expect performance issue otherwise no issues when run a environment where scaling is a priority   
 •	The python script is executed  with version 2.7 and later
 
