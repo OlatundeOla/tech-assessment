@@ -7,7 +7,7 @@ Introduction
 
 This CSV file Loan.csv is from the accounting department to calculate the aggregate loans by the tuple of (Network, Product, Month) with the aggregated by tuple currency amounts and counts and output into a file CSV file Output.csv
 
-The code is written and compiled in python 3.7
+The code is written and compiled with python 3.7
 
 Directories
 ------------
