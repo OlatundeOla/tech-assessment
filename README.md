@@ -31,6 +31,6 @@ You can download the code here , or clone the git repo.
 Constraints considerations
 ------------------------------
 
-•	The processing time is a function of the input file size and the environment on which the file is processed. If this is run locally then expect a bit expect performance issue otherwise no issues when run a environment where scaling is a priority   
+•	The processing time is a function of the input file size and the environment on which the file is processed. If this is run locally then expect a bit of performance issues otherwise no issues when run on an environment where scaling is a priority   
 •	The python script is executed  with version 2.7 and later
 
